@@ -1,14 +1,11 @@
-package Lab_04;
+package Lab_05;
 
-import java.security.SecureRandom;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-import static java.util.Arrays.asList;
 
-
-public class lab_4_all {
+public class lab_5_all {
     public static void printMenu() {
         System.out.println("---------MENU--------");
         System.out.println("1. Add number into ArrayList");
